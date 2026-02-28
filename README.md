@@ -129,6 +129,12 @@ This dashboard helps answer strategic questions such as:
 
 ◻️ Which cities incur the highest COGS?
 
+## 🚀 Live Interactive Dashboard
+
+Click below to explore the dashboard online (fully interactive):
+
+🔗 [View Live Excel Dashboard](https://1drv.ms/v/c/74575ae627cd1b05/IQBT1ZtzS9ksTLQusLWbj7ltAZ5k3KHA3jNb8ODGjbMq7iQ?e=wi1AMu)
+
 ## 📊 Business Insights Summary
 
 This dashboard reveals key performance patterns and strategic opportunities within the 2025 electronics sales data.
