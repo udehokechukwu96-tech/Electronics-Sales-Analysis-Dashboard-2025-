@@ -1,12 +1,12 @@
 # Electronics-Sales-Analysis-Dashboard-2025-
 
-## 📊 Electronics Sales Analysis Dashboard (2025)
+## Electronics Sales Analysis Dashboard (2025)
 
 An interactive Excel-based business intelligence dashboard designed to analyze electronics sales performance across regions, categories, sales representatives, and cities.
 
 This project provides key business insights into revenue, profit, customer trends, and cost analysis for strategic decision-making.
 
-## 🚀 Project Overview
+## Project Overview
 
 The **Electronics Sales Analysis Dashboard 2025** delivers a clear, executive-level view of sales performance using dynamic Pivot Tables, slicers, and KPI indicators.
 
@@ -22,13 +22,13 @@ It enables stakeholders to:
 
 ◻️ Understand regional and city-based cost distribution
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 
 ![WhatsApp Image 2026-02-28 at 2 35 11 AM](https://github.com/user-attachments/assets/f0655b54-4d94-435b-88ea-95cbfdd38a54)
 
 
-## 📌 Key Metrics (KPIs)
+## Key Metrics (KPIs)
 
 ◻️ Total Revenue: **₦2,328,370,000**
 
@@ -40,7 +40,7 @@ It enables stakeholders to:
 
 ◻️ Total Customers: **2,098**
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 ## 1️⃣ Interactive Filters (Slicers)
 
@@ -86,7 +86,7 @@ Donut chart visualizing COGS distribution across cities:
 
 Line chart tracking customer acquisition trends across months to identify growth patterns and seasonal drops.
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 ◻️ Microsoft Excel
 
@@ -104,7 +104,7 @@ Line chart tracking customer acquisition trends across months to identify growth
 
 ◻️ Dashboard UI/UX Design Principles
 
-## 📂 Project Structure
+## Project Structure
 
 **📁 Electronics-Sales-Dashboard**
 │
@@ -115,7 +115,7 @@ Line chart tracking customer acquisition trends across months to identify growth
 
 └── README.md
 
-## 🎯 Business Insights Enabled
+## Business Insights Enabled
 
 This dashboard helps answer strategic questions such as:
 
@@ -129,17 +129,17 @@ This dashboard helps answer strategic questions such as:
 
 ◻️ Which cities incur the highest COGS?
 
-## 🚀 Live Interactive Dashboard
+## Live Interactive Dashboard
 
 Click below to explore the dashboard online (fully interactive):
 
 🔗 [View Live Excel Dashboard](https://1drv.ms/v/c/74575ae627cd1b05/IQBT1ZtzS9ksTLQusLWbj7ltAZ5k3KHA3jNb8ODGjbMq7iQ?e=wi1AMu)
 
-## 📊 Business Insights Summary
+## Business Insights Summary
 
 This dashboard reveals key performance patterns and strategic opportunities within the 2025 electronics sales data.
 
-## 🔎 1. Revenue & Profitability Performance
+## 1. Revenue & Profitability Performance
 
 ◻️ The business generated **₦2.33B** in revenue with a **20%** profit margin, indicating healthy operational efficiency.
 
@@ -147,7 +147,7 @@ This dashboard reveals key performance patterns and strategic opportunities with
 
 **Insight:** Sustaining or improving margin requires supplier optimization and cost management strategies.
 
-## 🏆 2. Sales Representative Performance
+## 2. Sales Representative Performance
 
 ◻️ Sales revenue is moderately concentrated among top performers.
 
@@ -155,7 +155,7 @@ This dashboard reveals key performance patterns and strategic opportunities with
 
 **Insight:** Performance benchmarking can help identify best practices from top reps and replicate them across the team.
 
-## 📦 3. Product Profit Concentration
+## 3. Product Profit Concentration
 
 ◻️ Laptop A13 significantly outperforms other products in profit contribution.
 
@@ -170,7 +170,7 @@ The company should:
 
 ◻️ Reassess low-profit products for pricing or cost optimization
 
-## 🌍 4. Geographic Cost Distribution
+## 4. Geographic Cost Distribution
 
 ◻️ Lagos and Kano show the highest COGS share.
 
@@ -185,7 +185,7 @@ Higher operational costs in certain cities may indicate:
 
 ◻️ Regional cost optimization could improve overall profitability.
 
-## 📈 5. Customer Trend Analysis
+## 5. Customer Trend Analysis
 
 ◻️ Customer acquisition shows steady performance across most months.
 
@@ -202,7 +202,7 @@ Further investigation is required to determine:
 
 Early detection allows proactive corrective action.
 
-## 🎯 Executive Conclusion
+## Executive Conclusion
 
 The dashboard highlights a **strong revenue-generating business with high product concentration risk.**
 
@@ -218,7 +218,7 @@ Strategic focus areas include:
 
 This analysis enables data-driven decision-making to improve profitability, scalability, and operational efficiency.
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 ◻️ Data modeling in Excel
 
