@@ -12,15 +12,15 @@ The **Electronics Sales Analysis Dashboard 2025** delivers a clear, executive-le
 
 It enables stakeholders to:
 
-◻️ Monitor total revenue and profitability
+(a) Monitor total revenue and profitability
 
-◻️ Analyze sales rep performance
+(b) Analyze sales rep performance
 
-◻️ Track customer trends monthly
+(c) Track customer trends monthly
 
-◻️ Evaluate product-level profitability
+(d) Evaluate product-level profitability
 
-◻️ Understand regional and city-based cost distribution
+(e) Understand regional and city-based cost distribution
 
 ## Dashboard Preview
 
@@ -30,23 +30,23 @@ It enables stakeholders to:
 
 ## Key Metrics (KPIs)
 
-◻️ Total Revenue: **₦2,328,370,000**
+(a) Total Revenue: **₦2,328,370,000**
 
-◻️ Total Profit: **₦465,674,000**
+(b) Total Profit: **₦465,674,000**
 
-◻️ Profit Margin: **20%**
+(c) Profit Margin: **20%**
 
-◻️ Total Cost of Goods Sold: **₦1,862,696,000**
+(d) Total Cost of Goods Sold: **₦1,862,696,000**
 
-◻️ Total Customers: **2,098**
+(e) Total Customers: **2,098**
 
 ## Dashboard Features
 
 ## 1️⃣ Interactive Filters (Slicers)
 
-◻️ Region: East, North, South, West
+(a) Region: East, North, South, West
 
-◻️ Category: Electronics, Furniture, Home Appliances
+(b) Category: Electronics, Furniture, Home Appliances
 
 Users can dynamically filter and explore performance by region or product category.
 
@@ -64,23 +64,23 @@ Horizontal bar chart ranking products by profit contribution.
 
 Top products:
 
- ◻️Laptop A13 – **₦105.3M**
+(a) Laptop A13 – **₦105.3M**
 
-◻️ Sofa Classic – **₦69.2M**
+(b) Sofa Classic – **₦69.2M**
 
-◻️ Desktop PC D21 – **₦68.6M**
+(c) Desktop PC D21 – **₦68.6M**
 
 ## 4️⃣ City-Level Cost of Goods Sold (COGS)
 
 Donut chart visualizing COGS distribution across cities:
 
-◻️ Lagos
+(a) Lagos
 
-◻️ Kano
+(b) Kano
 
-◻️ Port Harcourt
+(c) Port Harcourt
 
-◻️ Abuja
+(d) Abuja
 
 ## 5️⃣ Monthly Customer Trend
 
@@ -88,21 +88,21 @@ Line chart tracking customer acquisition trends across months to identify growth
 
 ## Tools & Technologies Used
 
-◻️ Microsoft Excel
+(a) Microsoft Excel
 
-◻️ Pivot Tables
+(b) Pivot Tables
 
-◻️ Pivot Charts
+(c) Pivot Charts
 
-◻️ Slicers
+(d) Slicers
 
-◻️ Conditional Formatting
+(e) Conditional Formatting
 
-◻️ KPI Cards
+(f) KPI Cards
 
-◻️ Data Cleaning & Structuring
+(g) Data Cleaning & Structuring
 
-◻️ Dashboard UI/UX Design Principles
+(h) Dashboard UI/UX Design Principles
 
 ## Project Structure
 
@@ -119,15 +119,15 @@ Line chart tracking customer acquisition trends across months to identify growth
 
 This dashboard helps answer strategic questions such as:
 
-◻️ Which region generates the highest revenue?
+(a) Which region generates the highest revenue?
 
-◻️ Which products contribute most to profit?
+(b) Which products contribute most to profit?
 
-◻️ Who are the top-performing sales reps?
+(c) Who are the top-performing sales reps?
 
-◻️ How does customer acquisition trend month-over-month?
+(d) How does customer acquisition trend month-over-month?
 
-◻️ Which cities incur the highest COGS?
+(e) Which cities incur the highest COGS?
 
 ## Live Interactive Dashboard
 
@@ -141,34 +141,34 @@ This dashboard reveals key performance patterns and strategic opportunities with
 
 ## 1. Revenue & Profitability Performance
 
-◻️ The business generated **₦2.33B** in revenue with a **20%** profit margin, indicating healthy operational efficiency.
+(a) The business generated **₦2.33B** in revenue with a **20%** profit margin, indicating healthy operational efficiency.
 
-◻️ Profitability remains strong, but cost control remains critical as COGS represents **~80%** of revenue.
+(b) Profitability remains strong, but cost control remains critical as COGS represents **~80%** of revenue.
 
 **Insight:** Sustaining or improving margin requires supplier optimization and cost management strategies.
 
 ## 2. Sales Representative Performance
 
-◻️ Sales revenue is moderately concentrated among top performers.
+(a) Sales revenue is moderately concentrated among top performers.
 
-◻️ Peter leads with **₦434.8M,** followed by Musa and David.
+(b) Peter leads with **₦434.8M,** followed by Musa and David.
 
 **Insight:** Performance benchmarking can help identify best practices from top reps and replicate them across the team.
 
 ## 3. Product Profit Concentration
 
-◻️ Laptop A13 significantly outperforms other products in profit contribution.
+(a) Laptop A13 significantly outperforms other products in profit contribution.
 
-◻️ A small group of products drives a large share of total profit.
+(b) A small group of products drives a large share of total profit.
 
 **Insight:**
 The company should:
 
-◻️ Prioritize inventory availability for high-margin products
+(a) Prioritize inventory availability for high-margin products
 
-◻️ Consider promotional campaigns for mid-tier performers
+(b) Consider promotional campaigns for mid-tier performers
 
-◻️ Reassess low-profit products for pricing or cost optimization
+(c) Reassess low-profit products for pricing or cost optimization
 
 ## 4. Geographic Cost Distribution
 
@@ -177,28 +177,28 @@ The company should:
 **Insight:**
 Higher operational costs in certain cities may indicate:
 
-◻️ Logistics inefficiencies
+(a) Logistics inefficiencies
 
-◻️ Supplier pricing variations
+(b) Supplier pricing variations
 
-◻️ Demand concentration
+(c) Demand concentration
 
-◻️ Regional cost optimization could improve overall profitability.
+(d) Regional cost optimization could improve overall profitability.
 
 ## 5. Customer Trend Analysis
 
-◻️ Customer acquisition shows steady performance across most months.
+(a) Customer acquisition shows steady performance across most months.
 
-◻️ A significant drop in the final month suggests potential seasonality or reporting gaps.
+(b) A significant drop in the final month suggests potential seasonality or reporting gaps.
 
 **Insight:**
 Further investigation is required to determine:
 
-◻️ Whether the drop is seasonal
+(a) Whether the drop is seasonal
 
-◻️ A data issue
+(b) A data issue
 
-◻️ Or an operational slowdown
+(c) Or an operational slowdown
 
 Early detection allows proactive corrective action.
 
@@ -208,29 +208,29 @@ The dashboard highlights a **strong revenue-generating business with high produc
 
 Strategic focus areas include:
 
-◻️ Expanding revenue from mid-performing products
+(a) Expanding revenue from mid-performing products
 
-◻️ Replicating top sales rep strategies
+(b) Replicating top sales rep strategies
 
-◻️ Optimizing city-level cost drivers
+(c) Optimizing city-level cost drivers
 
-◻️ Monitoring customer acquisition volatility
+(d) Monitoring customer acquisition volatility
 
 This analysis enables data-driven decision-making to improve profitability, scalability, and operational efficiency.
 
 ## Skills Demonstrated
 
-◻️ Data modeling in Excel
+(a) Data modeling in Excel
 
-◻️ Business KPI development
+(b) Business KPI development
 
-◻️ Interactive dashboard design
+(c) Interactive dashboard design
 
-◻️ Data storytelling
+(d) Data storytelling
 
-◻️ Performance analytics
+(e) Performance analytics
 
-◻️Financial analysis (Revenue, Profit, Margin, COGS)
+(f) Financial analysis (Revenue, Profit, Margin, COGS)
 
 
 ## 👤 Author
